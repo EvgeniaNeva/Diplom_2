@@ -1,0 +1,9 @@
+ru/practicum/yandex/user/User.class
+ru/practicum/yandex/orders/Order.class
+ru/practicum/yandex/network/OrderManager.class
+ru/practicum/yandex/Constants/Constants.class
+ru/practicum/yandex/network/NetworkManager.class
+ru/practicum/yandex/orders/OrdersResponse.class
+ru/practicum/yandex/network/UserManager.class
+ru/practicum/yandex/user/UserCreateResponse.class
+ru/practicum/yandex/ObjectGenerator.class
